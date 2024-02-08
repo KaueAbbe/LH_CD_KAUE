@@ -51,7 +51,8 @@ Realizei análise estatística descritiva univariadas. Realizei análise bivaria
 <h3 align ="left"> Informações Descobertas e Respondendo Perguntas</h3>
 
 Abaixo apresento gráficos que mostram a média de valores separados em grupos de bairros e grupos de tipo de locação.
-![bairro_groups](https://github.com/KaueAbbe/LH_CD_KAUE/assets/68445400/46247b1b-50b4-4249-9b3d-de427114e76f)
+
+![preco_bairro2](https://github.com/KaueAbbe/LH_CD_KAUE/assets/68445400/204769ff-9cf7-451c-b6c9-d2a7e1ffc117)
 
 O bairro que possui valor médio maior é Manhattan, no entanto não diferença estatística entre os bairos Manhattan, Brooklyn e Staten Island.
 
@@ -83,6 +84,7 @@ E baseado nos gráficos e nas análises criei as seguintes sugestões de negóci
 
 
 
+![preco_noite](https://github.com/KaueAbbe/LH_CD_KAUE/assets/68445400/dd0e2d74-11ba-45e3-8b94-8297d682a700)
 
 
 O gráfico acima apresenta um aglomerado de valores com baixo preço e baixo número de mínimo de noites. E apresenta valores discrepantes com altos preços e baixo valor mínimo de noite, com poucos valores de baixo preço e alto valor mínimo de noite. 
